@@ -6,6 +6,9 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 <body>
+    
+<?php require_once '../includes/menu.php'; ?>
+
 
 <h2>Cadastro de Usuário</h2>
 <form id="form-cadastro">
